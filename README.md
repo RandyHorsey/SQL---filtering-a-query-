@@ -15,17 +15,12 @@ Searching for specific information about employees, their machines, and the depa
 
  <h4>
 Listed all organization machines: </h4>
-<img src="https://imgur.com/Te2hiCk.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/ewEt0WS.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/Beec55B.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/RWMlxf3.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Retrieved a list of specific machines:  </h4>
-<img src="https://imgur.com/yJe3jQ7.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/sbiEUm5.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/zY4DHIK.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/7BcpUmO.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>Listed employees in a specific department:  </h4>
-<img src="https://imgur.com/thVTo6H.png" height="65%" width="65%" alt="Security Audit"/>
-<img src="https://imgur.com/0OYIbQ7.png" height="65%" width="65%" alt="Security Audit"/>
-<h4>Identifying employee machines:  </h4>
-<img src="https://imgur.com/thVTo6H.png" height="65%" width="65%" alt="Security Audit"/>
-<img src="https://imgur.com/0OYIbQ7.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/Q8YXAiv.png" height="65%" width="70%" alt="Security Audit"/>
+<h4>Listed employees in a specific department using the wildcard:  </h4>
+<img src="https://imgur.com/UsF3rSo.png" height="65%" width="65%" alt="Security Audit"/>
+
